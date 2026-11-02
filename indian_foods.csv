@@ -1,0 +1,101 @@
+Food_Name,Category,FODMAP_Level,Glycemic_Index,Sat_Fat_g,B12_mcg,VitD_IU
+White Rice (raw milled),Grain,Low,73,0.18,0.0,0.0
+Brown Rice (raw),Grain,Low,68,0.26,0.0,0.0
+Basmati Rice (raw),Grain,Low,58,0.16,0.0,0.0
+Poha (rice flakes),Grain,Low,70,0.12,0.0,0.0
+Whole Wheat Atta,Grain,High,62,0.26,0.0,0.0
+Maida (refined wheat flour),Grain,High,85,0.15,0.0,0.0
+Semolina (suji rava),Grain,High,66,0.18,0.0,0.0
+Broken Wheat (dalia),Grain,High,52,0.24,0.0,0.0
+Ragi Flour (finger millet),Millet,Low,65,0.38,0.0,0.0
+Bajra Flour (pearl millet),Millet,Low,70,1.36,0.0,0.0
+Jowar Flour (sorghum),Millet,Low,84,0.32,0.0,0.0
+Foxtail Millet (kangni),Millet,Low,54,0.45,0.0,0.0
+Barnyard Millet (sanwa),Millet,Low,50,0.52,0.0,0.0
+Kodo Millet (kodra),Millet,Low,48,0.28,0.0,0.0
+Little Millet (kutki),Millet,Low,52,0.31,0.0,0.0
+Maize Flour (makki atta),Grain,Low,74,0.67,0.0,0.0
+Moong Dal (split),Pulse,Low,38,0.23,0.0,0.0
+Whole Green Moong,Pulse,High,31,0.21,0.0,0.0
+Toor Dal (arhar),Pulse,High,52,0.29,0.0,0.0
+Chana Dal,Pulse,High,11,0.61,0.0,0.0
+Kala Chana (Bengal gram),Pulse,High,33,0.48,0.0,0.0
+Kabuli Chana (chickpea),Pulse,High,28,0.60,0.0,0.0
+Masoor Dal (red lentil),Pulse,High,26,0.10,0.0,0.0
+Urad Dal (split),Pulse,High,43,0.23,0.0,0.0
+Rajma (kidney bean),Pulse,High,29,0.16,0.0,0.0
+Lobia (black-eyed pea),Pulse,High,42,0.22,0.0,0.0
+Soybean (whole dry),Pulse,High,16,2.89,0.0,0.0
+Horse Gram (kulthi),Pulse,High,51,0.35,0.0,0.0
+Palak (spinach),Vegetable,Low,32,0.06,0.0,0.0
+Methi Leaves (fenugreek greens),Vegetable,Low,18,0.08,0.0,0.0
+Lauki (bottle gourd),Vegetable,Low,15,0.02,0.0,0.0
+Tori (ridge gourd),Vegetable,Low,15,0.03,0.0,0.0
+Baingan (brinjal),Vegetable,Low,15,0.04,0.0,0.0
+Bhindi (okra),Vegetable,Low,20,0.05,0.0,0.0
+Tomato,Vegetable,Low,15,0.03,0.0,0.0
+Cucumber,Vegetable,Low,15,0.01,0.0,0.0
+Carrot,Vegetable,Low,39,0.04,0.0,0.0
+Beetroot,Vegetable,High,64,0.03,0.0,0.0
+Potato,Vegetable,Low,78,0.03,0.0,0.0
+Sweet Potato,Vegetable,Low,63,0.04,0.0,0.0
+Onion,Vegetable,High,10,0.04,0.0,0.0
+Garlic,Vegetable,High,30,0.06,0.0,0.0
+Ginger,Vegetable,Low,15,0.03,0.0,0.0
+Green Chilli,Vegetable,Low,15,0.02,0.0,0.0
+Capsicum (shimla mirch),Vegetable,Low,15,0.05,0.0,0.0
+Cabbage,Vegetable,Low,15,0.02,0.0,0.0
+Cauliflower,Vegetable,High,15,0.04,0.0,0.0
+Pumpkin (kaddu),Vegetable,Low,51,0.05,0.0,0.0
+Karela (bitter gourd),Vegetable,Low,15,0.03,0.0,0.0
+French Beans,Vegetable,Low,15,0.04,0.0,0.0
+Papaya,Fruit,Low,55,0.06,0.0,0.0
+Ripe Banana,Fruit,High,62,0.11,0.0,0.0
+Firm Banana (unripe),Fruit,Low,42,0.09,0.0,0.0
+Apple,Fruit,High,39,0.03,0.0,0.0
+Mango (ripe),Fruit,High,51,0.09,0.0,0.0
+Guava,Fruit,Low,24,0.27,0.0,0.0
+Orange (santra),Fruit,Low,43,0.02,0.0,0.0
+Grapes,Fruit,High,53,0.05,0.0,0.0
+Pomegranate,Fruit,Low,35,0.12,0.0,0.0
+Watermelon,Fruit,High,72,0.02,0.0,0.0
+Amla (Indian gooseberry),Fruit,Low,15,0.04,0.0,0.0
+Chikoo (sapota),Fruit,High,54,0.50,0.0,0.0
+Cow Milk (full fat),Dairy,High,27,2.10,0.14,4.0
+Buffalo Milk,Dairy,High,27,4.30,0.16,4.0
+Dahi (full-fat curd),Dairy,High,36,2.00,0.13,2.0
+Paneer,Dairy,High,28,13.50,0.11,4.0
+Ghee,Dairy,Low,0,61.90,0.0,8.0
+Lactose-Free Cow Milk,Dairy,Low,27,2.10,0.14,4.0
+Whole Egg,Protein,Low,0,3.30,0.89,52.0
+Chicken Breast (skinless),Protein,Low,0,0.60,0.31,8.0
+Mutton (goat muscle),Protein,Low,0,3.80,2.00,8.0
+Rohu Fish,Protein,Low,0,0.90,2.20,160.0
+Prawns,Protein,Low,0,0.20,1.10,4.0
+Firm Tofu,Protein,Low,15,0.80,0.0,0.0
+Almonds,Nut,High,15,3.70,0.0,0.0
+Walnuts,Nut,Low,15,6.10,0.0,0.0
+Cashews,Nut,High,22,7.80,0.0,0.0
+Peanuts (groundnut),Nut,Low,14,6.80,0.0,0.0
+Sesame Seeds (til),Nut,High,35,6.60,0.0,0.0
+Mustard Oil,Fat,Low,0,11.60,0.0,0.0
+Coconut Oil,Fat,Low,0,82.50,0.0,0.0
+Turmeric Powder (haldi),Spice,Low,0,1.50,0.0,0.0
+Cumin Seeds (jeera),Spice,Low,0,1.50,0.0,0.0
+Coriander Seeds (dhania),Spice,Low,0,0.90,0.0,0.0
+Mustard Seeds (rai),Spice,Low,0,1.50,0.0,0.0
+Fenugreek Seeds (methi dana),Spice,High,0,1.20,0.0,0.0
+Asafoetida (hing),Spice,Low,0,0.10,0.0,0.0
+Red Chilli Powder,Spice,Low,0,0.80,0.0,0.0
+Black Pepper,Spice,Low,0,1.00,0.0,0.0
+Curry Leaves,Spice,Low,15,0.10,0.0,0.0
+Fresh Coriander Leaves,Spice,Low,15,0.02,0.0,0.0
+Mint Leaves (pudina),Spice,Low,15,0.04,0.0,0.0
+Ajwain (carom seeds),Spice,Low,0,1.40,0.0,0.0
+Jaggery (gur),Sweetener,High,84,0.0,0.0,0.0
+Tamarind Pulp,Spice,High,23,0.10,0.0,0.0
+Green Peas (fresh),Vegetable,High,51,0.07,0.0,0.0
+Cluster Beans (gawar),Vegetable,High,15,0.04,0.0,0.0
+Drumstick (moringa pod),Vegetable,Low,15,0.05,0.0,0.0
+Sweet Corn,Vegetable,High,52,0.20,0.0,0.0
+Button Mushroom,Vegetable,High,15,0.10,0.0,0.0
